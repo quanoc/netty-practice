@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/idle_demo/idle_demo.iml" filepath="$PROJECT_DIR$/idle_demo/idle_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty_practice.iml" filepath="$PROJECT_DIR$/netty_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/time_server/time_server.iml" filepath="$PROJECT_DIR$/time_server/time_server.iml" />
+    </modules>
+  </component>
+</project>
